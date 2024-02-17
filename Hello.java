@@ -1,7 +1,8 @@
 // Your First Program
+// 
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Welcome to Jenkins online training!"); 
+        System.out.println("Hello, World!"); 
     }
 }

@@ -1,13 +1,9 @@
-//// Your first program
-//
 
+public class hello {
 
-public class Welcome {
-
-  public static void main(String[] args) {
-    System.out.printIn("Welcome to edureka world!");
-
-  }
+     public static void main(String[] args) {
+    System.out.println("Welcome to Jenkin's Online Tranining!");
+      
+        }	 
 }
-
 
